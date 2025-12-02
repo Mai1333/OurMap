@@ -1,5 +1,5 @@
 #map {
-    height: 600px;
+    height: 700px;
     width: 75%;
     position: absolute;
     left: 50%;
@@ -21,4 +21,5 @@ p {
     text-align: center;
     margin-top: 20px;
 }
+
 
